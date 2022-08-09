@@ -16,3 +16,8 @@ chmod +x script.sh
 ```
  
 videos without subtitles streams will be moved to no_subtitles folder
+
+
+# Reference
+
+based on a answer from [stackoverflow](https://stackoverflow.com/questions/43005432/check-if-a-video-file-has-subtitles)
