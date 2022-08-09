@@ -15,8 +15,7 @@ chmod +x script.sh
 ./script.sh
 ```
  
-videos without subtitles streams will be moved to no_subtitles folder
-
+videos without subtitles streams will be moved to folder named "no_subtitles"
 
 # Reference
 
