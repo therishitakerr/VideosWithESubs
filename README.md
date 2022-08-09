@@ -3,14 +3,14 @@ basic bash script which seperates videos with embed subs from rest of the video 
 
 # How to run
 
-copy script.sh to the folder containing video files
+1. copy script.sh to the folder containing video files
 
-add executable permission to the script file
+2. add executable permission to the script file
 ```
 chmod +x script.sh
 ```
  
-run script,
+3. run script,
 ```
 ./script.sh
 ```
