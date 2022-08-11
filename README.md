@@ -22,7 +22,7 @@ videos without subtitles streams will be moved to folder named "no_subtitles"
 
 # Use case
 
-If you download videos from a channel or a playlist and want to seperate videos with embed subs from rest of the videos
+Example: If you download videos from a channel or a playlist and want to seperate videos with embed subs from rest of the videos
 ```
 yt-dlp -i --embed-thumbnaii --add-metada --sub-lang en --embed-subs 'url'
 ```
