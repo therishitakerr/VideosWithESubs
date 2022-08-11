@@ -1,6 +1,9 @@
 # seperatevideoswithsubtitles
 basic bash script which seperates videos with embed subs from rest of the video files
 
+# Requirements
+1. ffmpeg
+
 # How to run
 
 1. copy script.sh to the folder containing video files
@@ -16,6 +19,13 @@ chmod +x script.sh
 ```
  
 videos without subtitles streams will be moved to folder named "no_subtitles"
+
+# Use case
+
+If you download videos from a channel or a playlist and want to seperate videos with embed subs from rest of the videos
+```
+yt-dlp -i --embed-thumbnaii --add-metada --sub-lang en --embed-subs 'url'
+```
 
 # Reference
 
